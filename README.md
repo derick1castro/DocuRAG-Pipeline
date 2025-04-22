@@ -1,4 +1,4 @@
-# 🧠 LLM Retrieval QA Prototype
+# 🧠 LLM Retrieval RAG Prototype
 
 **Ask natural language questions. Get fast, precise, and contextual answers using FAISS and GPT-4o.**
 
