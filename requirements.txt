@@ -1,0 +1,7 @@
+faiss-cpu
+langchain
+openai
+tiktoken
+rapidocr-onnxruntime
+langchain-community
+loguru
